@@ -1,7 +1,11 @@
 # Exercício – Jogo Dado
 
-Exercício – Jogo Dado(Windows Forms)![image](https://user-images.githubusercontent.com/105116245/225469539-0b88e344-5d02-4e04-8ce3-3a44b8fb675b.png)
+Exercício – Jogo Dado
+
+O jogo deverá permitir 3 jogadas e o jogador que vencer 2 será o Vencedor 
+Apresentar o Vencedor ao final - Ex. "Player1 é o Vencedor"
+![image](https://user-images.githubusercontent.com/105116245/225469608-162977f5-aa6d-40df-b396-e0b0c037e50e.png)
 
 Nome: Victor Marinelli Monanari RA: 1950936
 Nome: Heitor Shoiji Kimura RA: 1932546
-![image](https://user-images.githubusercontent.com/105116245/225469418-9657357f-2e7f-4328-aa5e-f32cbb43648e.png)
+
